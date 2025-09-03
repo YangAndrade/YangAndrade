@@ -41,9 +41,9 @@ Quando não estou codando, você pode me encontrar no mundo dos jogos e animes.
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YangAndrade/YangAndrade/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YangAndrade/YangAndrade/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/YangAndrade/YangAndrade/gh-pages/dist/github-snake.svg" alt="Animação da cobrinha no GitHub" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YangAndrade/YangAndrade/gh-pages/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YangAndrade/YangAndrade/gh-pages/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YangAndrade/YangAndrade/gh-pages/github-snake.svg" />
 </picture>
 
 ---
