@@ -40,6 +40,14 @@ Quando não estou codando, você pode me encontrar no mundo dos jogos e animes.
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YangAndrade/YangAndrade/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YangAndrade/YangAndrade/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YangAndrade/YangAndrade/output/github-snake.svg" />
+</picture>
+
+---
+
 ### Conecte-se comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yangandrade/)
